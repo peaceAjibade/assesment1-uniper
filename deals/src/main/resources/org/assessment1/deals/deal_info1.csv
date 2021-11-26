@@ -1,0 +1,5 @@
+deal_num,counterparty,location,volume,volume_unit,delivery_date
+8088761,ECC,TTF,100,KWh,25-11-21
+8088762,GTS,TTF,150,MWh,26-11-21
+8088763,ECC,TTF,100,MWh,25-11-21
+
